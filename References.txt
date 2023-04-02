@@ -1,6 +1,6 @@
 References:
 
-/*
+
 Attribution Guide is from Stack Overflow website
 Link: https://stackoverflow.blog/2009/06/25/attribution-required/
 Author: Jeff Atwood
@@ -8,7 +8,7 @@ Author's Profile Link:
 https://stackoverflow.blog/author/jeff-atwood/
 License: https://creativecommons.org/licenses/by-sa/3.0/
 [No changes were made]
-*/
+
 
 How to Center Anything with CSS - Align a Div, Text, and More
 https://www.freecodecamp.org/news/how-to-center-anything-with-css-align-a-div-text-and-more/
