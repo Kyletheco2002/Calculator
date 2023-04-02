@@ -1,0 +1,171 @@
+References:
+
+/*
+Attribution Guide is from Stack Overflow website
+Link: https://stackoverflow.blog/2009/06/25/attribution-required/
+Author: Jeff Atwood
+Author's Profile Link:
+https://stackoverflow.blog/author/jeff-atwood/
+License: https://creativecommons.org/licenses/by-sa/3.0/
+[No changes were made]
+*/
+
+How to Center Anything with CSS - Align a Div, Text, and More
+https://www.freecodecamp.org/news/how-to-center-anything-with-css-align-a-div-text-and-more/
+
+HTML <center> Tag - https://www.w3schools.com/tags/tag_center.asp
+
+A touch keyboard using Bootstrap with jQuery: 5 demos - https://www.jquery-az.com/a-touch-keyboard-using-bootstrap-with-jquery-5-demos/
+
+Buttons - https://getbootstrap.com/docs/4.4/components/buttons/
+
+Grid system - https://getbootstrap.com/docs/4.1/layout/grid/
+
+How to make Calculator in HTML Using Bootstrap |CSS |HTML |Bootstrap |Javascript - https://www.youtube.com/watch?v=qLLdn2IS6Xk
+
+Borders in bootstrap with examples - https://www.geeksforgeeks.org/borders-in-bootstrap-with-examples/
+
+
+Code Guide is from Stack Overflow website
+Link: https://stackoverflow.com/questions/33880219/how-to-make-the-page-layout-stay-the-same-after-minimized
+Author: jfoutch
+Author's Profile Link:
+https://stackoverflow.com/users/1527567/jfoutch
+License: https://creativecommons.org/licenses/by-sa/3.0/
+[Changes made to code snippets to fit the program]
+
+
+Bootstrap Grid System Tutorial | Bootstrap 5 - https://www.youtube.com/watch?v=Wqu-d_b3K-0
+
+Center a div with margins, flexbox or grid | CSS | HTML | web development - https://www.youtube.com/watch?v=fa12j9F0FeI
+
+How to Change the HTML Font Color - https://kinsta.com/blog/html-font-color/#:~:text=To%20change%20the%20HTML%20font%20color%20with%20CSS%2C,to%20use%20CSS%20to%20change%20the%20font%20color.
+
+sumon19/BootstrapCalculator - https://github.com/sumon19/BootstrapCalculator
+BootstrapCalculator/Calculator.html - https://github.com/sumon19/BootstrapCalculator/blob/master/Calculator.html
+
+
+Design Guide is from Stack Overflow website
+Link: https://stackoverflow.com/questions/9273016/why-is-this-inline-block-element-pushed-downward
+Authors: Gary Lindahl, Danield
+Authors' Profile Link:
+https://stackoverflow.com/users/848927/gary-lindahl
+https://stackoverflow.com/users/703717/danield
+License: https://creativecommons.org/licenses/by-sa/3.0/
+[No changes were made]
+
+
+Design Guide is from Stack Overflow website
+Link: https://stackoverflow.com/questions/9273016/why-is-this-inline-block-element-pushed-downward
+Author: sandeep
+Author's Profile Link:
+https://stackoverflow.com/users/567751/sandeep
+License: https://creativecommons.org/licenses/by-sa/3.0/
+[Changes made to code snippets to fit the program]
+
+
+Design Guide is from Stack Overflow website
+Link: https://stackoverflow.com/questions/14105205/why-does-an-img-push-down-the-text-content-next-to-it
+Author: Barmar
+Author's Profile Link:
+https://stackoverflow.com/users/1491895/barmar
+License: https://creativecommons.org/licenses/by-sa/3.0/
+[Changes made to code snippets to fit the program]
+
+
+Answer (vertical-align) - http://maxdesign.com.au/articles/vertical-align/
+
+Set background color in HTML | HTML5 Tutorial - https://www.youtube.com/watch?v=ZPSgOZPZ23s
+
+mouse hover background color button change using html and css - https://www.youtube.com/watch?v=ChqVKbAjEbA
+
+How to get the value of selected radio button in a group using jQuery - https://www.tutorialrepublic.com/faq/how-to-get-the-value-of-selected-radio-button-using-jquery.php#:~:text=You%20can%20simply%20use%20the%20jQuery%20%3Achecked%20selector,of%20the%20selected%20radio%20button%20inside%20a%20group.
+
+LEARN how to access html element get or set value using id - JQUERY TAB - JQUERY PLUGIN DEVELOPMENT - https://www.youtube.com/watch?v=eVM8acFJamI
+
+jQuery Selectors - https://www.w3schools.com/jquERy/jquery_selectors.asp
+
+Learn and Understand jQuery this “$(this)” Selector with Examples and Codes - https://www.yogihosting.com/jquery-this/
+
+
+Code Guide is from Stack Overflow website
+Link: https://stackoverflow.com/questions/551538/how-to-get-element-value-in-jquery
+Author: Jason Cohen
+Author's Profile Link:
+https://stackoverflow.com/users/4926/jason-cohen
+License: https://creativecommons.org/licenses/by-sa/2.5/
+[Changes made to code snippets to fit the program]
+
+
+Code Guide is from Stack Overflow website
+Link: https://stackoverflow.com/questions/551538/how-to-get-element-value-in-jquery
+Author: Daxon
+Author's Profile Link:
+https://stackoverflow.com/users/149289/daxon
+License: https://creativecommons.org/licenses/by-sa/2.5/
+[Changes made to code snippets to fit the program]
+
+
+jQuery attr() Method - https://www.w3schools.com/jquery/html_attr.asp
+
+jQuery val() Method - https://www.w3schools.com/jquery/html_val.asp
+
+How to a remove portion of string in JavaScript? - https://thewebdev.info/2022/01/22/how-to-a-remove-portion-of-string-in-javascript/#:~:text=To%20a%20remove%20portion%20of%20string%20in%20JavaScript%2C,string.replace%20%28%27Whats%20on%20your%20mind%3F%27%2C%20%27%27%29%3B%20console.log%20%28newString%29
+
+How to remove a part of JavaScript string from a longer string - https://sebhastian.com/javascript-remove-string-from-string/
+
+How TO - Get The Length of a String - https://www.w3schools.com/howto/howto_js_string_length.asp
+
+Editor - https://www.w3schools.com/howto/tryit.asp?filename=tryhow_js_string_length
+
+“add character to beginning of string javascript” Code Answer’s - https://www.codegrepper.com/code-examples/javascript/add+character+to+beginning+of+string+javascript
+
+
+Code Guide is from Stack Overflow website
+Link: https://stackoverflow.com/questions/6094117/prepend-text-to-beginning-of-string
+Author: Gabriele Petrioli
+Author's Profile Link:
+https://stackoverflow.com/users/128165/gabriele-petrioli
+License: https://creativecommons.org/licenses/by-sa/3.0/
+[Changes made to code snippets to fit the program]
+
+
+How to get first character of a string in JavaScript - https://reactgo.com/javascript-first-character-string/#:~:text=To%20get%20the%20first%20character%20of%20a%20string%2C,str%20%3D%20%22helicopter%22%3B%20const%20firstCharacter%20%3D%20str.charAt%280%29%3B%20console.log%28firstCharacter%29%3B
+
+Java String concat - https://www.javatpoint.com/java-string-concat
+
+JavaScript String concat() - https://www.w3schools.com/jsref/jsref_concat_string.asp
+
+JavaScript Operators - https://www.w3schools.com/js/js_operators.asp
+
+JavaScript Functions - https://www.w3schools.com/js/js_functions.asp#:~:text=A%20JavaScript%20function%20is%20a%20block%20of%20code,followed%20by%20a%20name%2C%20followed%20by%20parentheses%20%28%29.
+
+
+Code Guide is from Stack Overflow website
+Link: https://stackoverflow.com/questions/26551787/convert-negative-number-in-string-to-negative-decimal-in-javascript
+Author: Drazzah
+Author's Profile Link:
+https://stackoverflow.com/users/3287761/drazzah
+License: https://creativecommons.org/licenses/by-sa/3.0/
+[Changes made to code snippets to fit the program]
+
+
+jQuery html() Method - https://www.w3schools.com/jquery/html_html.asp
+
+difference between 'C' and 'CE' - https://zeenews.india.com/news/science/are-you-aware-how-different-are-c-and-ce-functions-on-windows-calculator-if-not-then-read-this_1884510.html
+
+jQuery Get Content - https://tutorialdeep.com/jquery/jquery-get-content-attributes/#:~:text=jQuery%20Get%20Text%20Content%20Using%20text%28%29%20You%20can,only%20the%20text%20content%2C%20not%20the%20tag%20name.
+
+How to return a value from a JavaScript function? - https://www.tutorialspoint.com/How-to-return-a-value-from-a-JavaScript-function?msclkid=84241e1cb12811eca927a15c6967761b
+
+JavaScript if else and else if - https://www.w3schools.com/js/js_if_else.asp?msclkid=d684dad1b12811ec8fcdaf1606b8937d
+
+Convert a number to a string in JavaScript - https://www.geeksforgeeks.org/convert-a-number-to-a-string-in-javascript/#:~:text=In%20JavaScript%2C%20you%20can%20change%20any%20number%20into,and%20converts%20it%20into%20a%20string%20type.%202.?msclkid=20cd654db1b811ecabc89e351f089820
+
+
+*The program functionalities were also inspired from the Windows calculator application.
+
+
+
+
+
