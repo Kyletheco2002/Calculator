@@ -1,5 +1,7 @@
 # Calculator
 
+This repository includes a simple calculator program made using HTML, CSS, JavaScript, jQuery and Bootstrap as a course work done for a college class.
+
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
 This work is licensed under a
