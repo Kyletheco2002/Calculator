@@ -1,6 +1,8 @@
 # Calculator
 
-This repository includes a simple calculator program made using HTML, CSS, JavaScript, jQuery and Bootstrap as a course work done for a college class.
+This repository includes a simple calculator program made using HTML, CSS, JavaScript, jQuery and Bootstrap as a course work done for a college class. 
+
+This program was developed using Visual Studio Code.
 
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
