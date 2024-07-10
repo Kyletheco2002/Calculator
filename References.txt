@@ -18,8 +18,10 @@ HTML <center> Tag - https://www.w3schools.com/tags/tag_center.asp
 A touch keyboard using Bootstrap with jQuery: 5 demos - https://www.jquery-az.com/a-touch-keyboard-using-bootstrap-with-jquery-5-demos/
 
 Buttons - https://getbootstrap.com/docs/4.4/components/buttons/
+License: https://github.com/twbs/bootstrap/blob/v4.4.1/LICENSE
 
 Grid system - https://getbootstrap.com/docs/4.1/layout/grid/
+License: https://github.com/twbs/bootstrap/blob/v4.1.3/LICENSE
 
 How to make Calculator in HTML Using Bootstrap |CSS |HTML |Bootstrap |Javascript - https://www.youtube.com/watch?v=qLLdn2IS6Xk
 
